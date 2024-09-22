@@ -1,5 +1,5 @@
 ## Hi, nice to meet you 👋
-- 😺 I’m currently a Ph.D. candidate in Xi'an Jiaotong University.
+- 😺 I’m currently a Ph.D. candidate in Xi'an Jiaotong University from Sep. 2022.
 - 🌱 I’m currently interested in reinforcement learning, multi-agent systems, robotics, etc.
 - 📫 You can find more information on [my personal homepage](https://DongShangqun.github.io)
 

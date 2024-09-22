@@ -1,7 +1,7 @@
-## Hi, nice to meet you there 👋
+## Hi, nice to meet you 👋
 - 😺 I’m currently a Ph.D. candidate in Xi'an Jiaotong University.
-- 🌱 I’m currently instereted in reinforcement learning, multi-agent system, robotics, etc.
-- 📫 You can find more information on my [homepage](DongShangqun.github.io)
+- 🌱 I’m currently interested in reinforcement learning, multi-agent systems, robotics, etc.
+- 📫 You can find more information on my personal [homepage](DongShangqun.github.io)
 
 <!--
 **DongShangqun/DongShangqun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
